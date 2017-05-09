@@ -11,9 +11,10 @@ Data: San Francisco Parking Meters
 
 
 ### Leaflet + D3 (v4)
-[Source Code](https://github.com/kristin-henry-sf/d3_mapping/tree/master/sfParkingMetersMap_d3v4)
+[Source Code](https://github.com/kristin-henry-sf/d3_mapping/tree/master/sfParkingMetersMap_d3v4) | [Block](http://bl.ocks.org/kristin-henry-sf/4544f810940e353ac3f362497f763246)
 * migrated to Version 4 of D3
 * still using SVG elements to represent data points
+* original data set is too big. Wrote python script to get subset.
 
 
 ### Leaflet + D3 (v3)
