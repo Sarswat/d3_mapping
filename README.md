@@ -10,6 +10,8 @@ Data: San Francisco Parking Meters
 * faster rendering with Canvas instead of SVG
 * original data set is too big. Wrote python script to get subset.
 
+<img src="d3v4Canvas.jpg" width="200">
+
 
 ### Leaflet + D3 (v4)
 [Source Code](https://github.com/kristin-henry-sf/d3_mapping/tree/master/sfParkingMetersMap_d3v4) | [Block](http://bl.ocks.org/kristin-henry-sf/4544f810940e353ac3f362497f763246)
