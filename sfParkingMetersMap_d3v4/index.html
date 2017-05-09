@@ -152,7 +152,7 @@
 
 
 	// Load data and plot it on map
-	var datafile = "Parking_meters.csv"; 
+	var datafile = "Parking_meters_sm.csv"; 
 	d3.csv(datafile, function(data){
 
 		ids = d3.map(data, function(d){return d['RATEAREA'];}).keys()
