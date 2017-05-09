@@ -10,7 +10,7 @@ file_out = "Parking_meters_sm.csv"
 
 locationIndex = 15				 	# This is just the index is for "Location" in the csv
 center = (37.78449, -122.40769)		# Point in downtown SF
-maxMiles = 1  						# Max distance from center point
+maxMiles = .5  						# Max distance from center point
 
 def getRows(file_path):
 	rows = []
