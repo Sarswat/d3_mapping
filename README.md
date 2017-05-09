@@ -20,5 +20,5 @@ Data: San Francisco Parking Meters
 [Source Code](https://github.com/kristin-henry-sf/d3_mapping/tree/master/sfParkingMetersMap)
 * using SVG elements to represent data points
 
-![alt](oneMileRadius.jpg)
+![alt](oneMileRadius_sm.jpg)
 
